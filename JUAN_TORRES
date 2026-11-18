@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi página personal</title>
+</head>
+<body>
+    <h1>Hola, soy Juan Torres</h1>
+    <h2>Mi página personal</h2>
+
+    <p>Estudio Redes Inteligentes y Ciberseguridad.</p>
+
+    <h3>Sobre mí</h3>
+    <p>Me interesa la tecnología, las redes
+    y la ciberseguridad.</p>
+</body>
+</html>
